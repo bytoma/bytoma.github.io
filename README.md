@@ -16,9 +16,9 @@
  
 ## 外部顾问
 
-`David`:frowning_person: <br>
+`David`👨 <br>
 <font face='KaiTi'>商业顾问，长居欧洲的business owner。</font><br>
-`Jane`:frowning_woman: <br>
+`Jane`👩 <br>
 <font face='KaiTi'>教育顾问，长居欧洲的art teacher。</font><br>
 
 # FAQs
