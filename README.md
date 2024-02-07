@@ -71,7 +71,7 @@
 
 ## 2024年项目
 
-### :belarus: :flag_ru:针对俄语预科生和俄语专业的学生
+### :belarus:🇷🇺针对俄语预科生和俄语专业的学生
 
 **佩奇大学** <br>
 Russian Philology 本科 <br>
@@ -80,6 +80,7 @@ Russian Philology 本科 <br>
 Russian Studies 硕士 <br>
 学制2年 3800欧/年 <br>
 **罗兰大学** <br>
+Russian Language and Literature <br>
 学制2年 5000欧/年 <br>
 
 ![](https://github.com/bytoma/bytoma.github.io/blob/main/logo.png?raw=true)
