@@ -7,7 +7,7 @@
 
 # 顾问团队
 
-<img src="430626297551463.png?raw=true"  style="zoom: 22%;" /><br> `Wendy`
+<img src="430626297551463.png?raw=true"  style="zoom: 22%;" /><br> `Wendy`<br>
 <font face='KaiTi'>职业顾问，讲四门语言的前跨国公司team leader，长驻匈牙利。</font><br>
 <img src="597343284284449.png?raw=true"  style="zoom: 22%;" /><br> `Mr.Zhao`<br>
 <font face='KaiTi'>教育顾问，2在白俄取得MA学位的前college teacher，PhD在读，长驻白俄。</font><br>
