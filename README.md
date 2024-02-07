@@ -39,7 +39,7 @@
 <font face='KaiTi'>Q5: 我已经在白俄取得硕士学位了，我可以去匈牙利读二硕吗？</font><br>
 <font face='KaiTi'>A5: 是的，这样是可行的。</font><br>
 <font face='KaiTi'>Q6: 匈牙利读书需要语言成绩吗？</font><br>
-<font face='KaiTi'>A6: 是的，学校会要求您通过学校组织的英语面试，或者提供相当于CEFR B2 level的英语成绩。</font>
+<font face='KaiTi'>A6: 是的，学校会要求您通过学校组织的英语面试，或者提供相当于CEFR B2 level的英语成绩。</font><br>
 <font face='KaiTi'>Q7: 匈牙利读书的学费是多少，生活费呢？</font><br>
 <font face='KaiTi'>A7: 学费取决于您的专业，大多数专业在5000--7000欧/年。生活费取决于您所在的城市和生活方式，通常，首都地区您需要7000欧/年，首都以外城市，您需要5000--6000欧/年，一年总费用大约为12000--14000欧。</font><br>
 <font face='KaiTi'>Q8: 我暂时无法决定是否要长期居住在匈牙利或者欧洲，因为我对那里不熟悉，您们是否提供相关项目让我去当地考察？</font><br>
