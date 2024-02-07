@@ -13,7 +13,7 @@
 :dart:A fehéroroszországi 🇨🇳 diákok kiszolgálására szakosodtunk <br>
 
 :earth_asia: Consultation regarding study and work in Europe <br>
-:pushpin: work in :belarus: and :hungary: <br>
+:pushpin: Based in :belarus: and :hungary: <br>
 :dart:Specialising in serving 🇨🇳 students in Belarus <br>
 
 :e-mail: lid740875@gmail.com <br>
