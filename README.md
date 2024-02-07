@@ -67,4 +67,19 @@
 <font face='KaiTi'>Q11: 为什么我需要先写邮件联系你们？</font><br>
 <font face='KaiTi'>A11: 这样可以方便我们分配更贴合您需求的顾问并且给您提供更加优质的服务。</font><br>
 
+# 留学项目（持续更新中...）
+
+## 2024年项目
+
+### :belarus: :flag_ru:针对俄语预科生和俄语专业的学生
+
+**佩奇大学** <br>
+Russian Philology 本科 <br>
+学制3年 4400欧/年 <br>
+**赛格德大学** <br>
+Russian Studies 硕士 <br>
+学制2年 3800欧/年 <br>
+**罗兰大学** <br>
+学制2年 5000欧/年 <br>
+
 ![](https://github.com/bytoma/bytoma.github.io/blob/main/logo.png?raw=true)
