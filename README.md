@@ -2,7 +2,20 @@
 
 :earth_asia: 我们提供关于欧洲留学和工作的咨询 <br>
 :pushpin: based in :belarus: 和 :hungary: <br>
-专注服务白俄留学生 <br>
+:dart:专注服务在白🇨🇳:留学生 <br>
+
+:earth_asia: Консультации по вопросам обучения и работы в Европе <br>
+:pushpin: Работаем в :belarus: и :hungary: <br>
+:dart:Мы специализируемся на обслуживании 🇨🇳: студентов в Беларуси <br>
+
+:earth_asia: Tanácsot adunk az európai tanulással és munkavállalással kapcsolatban <br>
+:pushpin: :belarus: és :hungary: székhellyel <br>
+:dart:A fehéroroszországi 🇨🇳: diákok kiszolgálására szakosodtunk <br>
+
+:earth_asia: Consultation regarding study and work in Europe <br>
+:pushpin: work in :belarus: and :hungary: <br>
+:dart:Specialising in serving 🇨🇳: students in Belarus <br>
+
 :e-mail: lid740875@gmail.com <br>
 
 # 顾问团队
