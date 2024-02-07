@@ -7,20 +7,27 @@
 
 # 顾问团队
 
-<img src="430626297551463.png?raw=true"  style="zoom: 22%;" /> <font face='cmuntt'>Wendy</font> <br>
- <font face='KaiTi'>职业顾问，讲四门语言的前跨国公司团队负责人，长驻匈牙利。</font> <br>
-<img src="597343284284449.png?raw=true"  style="zoom: 22%;" /> <font face='cmuntt'>Mr. Zhao</font> <br>
- <font face='KaiTi'>教育顾问，2020年在白俄取得MA学位的前高校教师，PhD在读，长驻白俄。</font> <br>
-<img src="342385279770680.png?raw=true"  style="zoom: 22%;" /> <font face='cmuntt'>Anna</font> <br>
- <font face='KaiTi'>教育顾问，TESOL教师，长驻白俄。</font><br>
+<img src="430626297551463.png?raw=true"  style="zoom: 22%;" /><br>
+<font face='cmuntt'>Wendy</font><br>
+<font face='KaiTi'>职业顾问，讲四门语言的前跨国公司团队负责人，长驻匈牙利。</font> <br>
+<img src="597343284284449.png?raw=true"  style="zoom: 22%;" /><br>
+<font face='cmuntt'>Mr. Zhao</font> <br>
+<font face='KaiTi'>教育顾问，2020年在白俄取得MA学位的前高校教师，PhD在读，长驻白俄。</font> <br>
+<img src="342385279770680.png?raw=true"  style="zoom: 22%;" /><br>
+<font face='cmuntt'>Anna</font> <br>
+<font face='KaiTi'>教育顾问，TESOL教师，长驻白俄。</font><br>
  
 ## 外部顾问
-$\tt Mr. Yu$ <font face='KaiTi'>商业顾问，长居欧洲的企业主。</font><br>
-$\tt Yinan$ <font face='KaiTi'>教育顾问，长居欧洲的艺术教师。</font><br>
+
+<font face='cmuntt'>David</font> <br>
+<font face='KaiTi'>商业顾问，长居欧洲的business owner。</font><br>
+<font face='cmuntt'>Jenny</font> <br>
+<font face='KaiTi'>教育顾问，长居欧洲的art teacher。</font><br>
 
 # FAQs
 
 ## 工签篇
+
 <font face='KaiTi'>Q1: 白俄留学生为什么选择匈牙利自由工签？</font><br>
 <font face='KaiTi'>A1: 申请简单便捷，只需护照。您将收获三年期的匈牙利工签。在登陆匈牙利办理居留卡后，您可以自由通行EU所有申根国。未来可以寻求在EU其他国家就业或者经营商业的可能。</font><br>
 <font face='KaiTi'>Q2: 匈牙利自由工签的收费是多少？</font><br>
@@ -29,6 +36,7 @@ $\tt Yinan$ <font face='KaiTi'>教育顾问，长居欧洲的艺术教师。</fo
 <font face='KaiTi'>A3: 是的，请邮件联系我们，并且标注您的专业名称，这类服务从1999欧元起步。</font><br>
 
 ## 留学篇
+
 <font face='KaiTi'>Q4: 白俄留学生为什么选择匈牙利留学？</font><br>
 <font face='KaiTi'>A4: 留学生在登陆匈牙利办理居留卡后，可以自由通行EU所有申根国。读书期间，法律规定可以合法实习并且纳税。此外，毕业生可以在完成学业后，申请6--9个月的延期签证来寻找雇主以求取得工作签证。</font><br>
 <font face='KaiTi'>Q5: 我已经在白俄取得硕士学位了，我可以去匈牙利读二硕吗？</font><br>
@@ -43,6 +51,7 @@ $\tt Yinan$ <font face='KaiTi'>教育顾问，长居欧洲的艺术教师。</fo
 <font face='KaiTi'>A9: 服务费取决于您申请的课程，语言课程为999欧元，学位课程（本科或者研究生）为1499欧元，包含您拿到大学的录取Offer（注意：匈牙利大学的Application fee和Examination fee是直接由大学直接收取的，且申请费是non-refundable的，因此我们的服务费不包括这两项费用）。宿舍申请或者租房服务额外收费499欧或399欧元。</font><br>
 
 ## 一般问题
+
 <font face='KaiTi'>Q10: 如何与我们联系？</font><br>
 <font face='KaiTi'>A10: 只需要发送您感兴趣的项目到我们的邮箱并且留下您的微信或者其他联系方式（比如Viber，Telegram，Whatsapp等），我们的顾问团队会根据您的需求尽快与您取得联系。</font><br>
 <font face='KaiTi'>Q11: 为什么我需要先写邮件联系你们？</font><br>
