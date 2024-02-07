@@ -9,9 +9,9 @@
 
 <img src="430626297551463.png?raw=true"  style="zoom: 22%;" /> $\tt Wendy$<br>
  <font face='KaiTi'>职业顾问，讲四门语言的前跨国公司团队负责人，长驻匈牙利。</font><br>
-<img src="597343284284449.png"  style="zoom: 22%;" /> $\tt Mr. Zhao$<br>
+<img src="597343284284449.png?raw=true"  style="zoom: 22%;" /> $\tt Mr. Zhao$<br>
  <font face='KaiTi'>教育顾问，2020年在白俄取得MA学位的前高校教师，PhD在读，长驻白俄。</font><br>
-<img src="342385279770680.png"  style="zoom: 22%;" /> $\tt {Anna}$<br>
+<img src="342385279770680.png?raw=true"  style="zoom: 22%;" /> $\tt {Anna}$<br>
  <font face='KaiTi'>教育顾问，TESOL教师，长驻白俄。</font><br>
  
 ## 外部顾问
