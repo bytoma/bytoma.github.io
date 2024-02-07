@@ -36,7 +36,7 @@
 
 <font face='KaiTi'>Q4: 白俄留学生为什么选择匈牙利留学？</font><br>
 <font face='KaiTi'>A4: 留学生在登陆匈牙利办理居留卡后，可以自由通行EU所有申根国。读书期间，法律规定可以合法实习并且纳税。此外，毕业生可以在完成学业后，申请6--9个月的延期签证来寻找雇主以求取得工作签证。</font><br>
-<font face='KaiTi'>Q5: 我已经在白俄取得硕士学位了，我可以去匈牙利读二硕吗？</font><br>
+<font face='KaiTi'>Q5: 我已经在白俄取得硕士学位了，还可以去匈牙利读二硕吗？</font><br>
 <font face='KaiTi'>A5: 是的，这样是可行的。</font><br>
 <font face='KaiTi'>Q6: 匈牙利读书需要语言成绩吗？</font><br>
 <font face='KaiTi'>A6: 是的，学校会要求您通过学校组织的英语面试，或者提供相当于CEFR B2 level的英语成绩。</font><br>
