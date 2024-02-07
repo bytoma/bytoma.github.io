@@ -7,21 +7,18 @@
 
 # 顾问团队
 
-<img src="430626297551463.png?raw=true"  style="zoom: 22%;" /><br>
-<font face='cmuntt'>Wendy</font><br>
-<font face='KaiTi'>职业顾问，讲四门语言的前跨国公司team leader，长驻匈牙利。</font> <br>
-<img src="597343284284449.png?raw=true"  style="zoom: 22%;" /><br>
-<font face='cmuntt'>Mr. Zhao</font> <br>
-<font face='KaiTi'>教育顾问，2在白俄取得MA学位的前college teacher，PhD在读，长驻白俄。</font> <br>
-<img src="342385279770680.png?raw=true"  style="zoom: 22%;" /><br>
-<font face='cmuntt'>Anna</font> <br>
+<img src="430626297551463.png?raw=true"  style="zoom: 22%;" /> `Wendy<br>
+<font face='KaiTi'>职业顾问，讲四门语言的前跨国公司team leader，长驻匈牙利。</font><br>
+<img src="597343284284449.png?raw=true"  style="zoom: 22%;" /> `Mr.Zhao<br>
+<font face='KaiTi'>教育顾问，2在白俄取得MA学位的前college teacher，PhD在读，长驻白俄。</font><br>
+<img src="342385279770680.png?raw=true"  style="zoom: 22%;" /> `Anna<br>
 <font face='KaiTi'>教育顾问，TESOL教师，长驻白俄。</font><br>
  
 ## 外部顾问
 
-<font face='cmuntt'>David</font> <br>
+`David <br>
 <font face='KaiTi'>商业顾问，长居欧洲的business owner。</font><br>
-<font face='cmuntt'>Jenny</font> <br>
+`Jane <br>
 <font face='KaiTi'>教育顾问，长居欧洲的art teacher。</font><br>
 
 # FAQs
